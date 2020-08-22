@@ -1,0 +1,81 @@
+argon2-cffi @ file:///tmp/build/80754af9/argon2-cffi_1596828493937/work
+attrs==19.3.0
+backcall==0.2.0
+bleach==3.1.5
+certifi==2020.6.20
+cffi @ file:///tmp/build/80754af9/cffi_1596809843656/work
+click==7.1.2
+cmdstanpy==0.4.0
+convertdate==2.2.1
+cycler==0.10.0
+Cython==0.29.21
+decorator==4.4.2
+defusedxml==0.6.0
+entrypoints==0.3
+ephem==3.7.7.1
+fbprophet==0.6
+Flask==1.1.2
+Flask-Cors==3.0.8
+gunicorn==20.0.4
+holidays==0.10.3
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1593446406207/work
+ipykernel @ file:///tmp/build/80754af9/ipykernel_1596207638929/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///tmp/build/80754af9/ipython_1593447377063/work
+ipython-genutils==0.2.0
+itsdangerous==1.1.0
+jedi @ file:///tmp/build/80754af9/jedi_1592841866100/work
+Jinja2==2.11.2
+joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
+jsonschema==3.2.0
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
+jupyter-core==4.6.3
+kiwisolver==1.2.0
+korean-lunar-calendar==0.2.1
+LunarCalendar==0.0.9
+MarkupSafe==1.1.1
+matplotlib @ file:///tmp/build/80754af9/matplotlib-base_1592846008246/work
+mistune==0.8.4
+mkl-fft==1.1.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+nbconvert==5.6.1
+nbformat==5.0.7
+notebook @ file:///tmp/build/80754af9/notebook_1596838629813/work
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1596233721170/work
+packaging==20.4
+pandas @ file:///tmp/build/80754af9/pandas_1596825826607/work
+pandocfilters==1.4.2
+parso==0.7.0
+patsy==0.5.1
+pexpect==4.8.0
+pickleshare==0.7.5
+prometheus-client==0.8.0
+prompt-toolkit==3.0.5
+ptyprocess==0.6.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+Pygments==2.6.1
+PyMeeus==0.3.7
+pyparsing==2.4.7
+pyrsistent==0.16.0
+pystan==2.19.1.1
+python-dateutil==2.8.1
+pytz==2020.1
+pyzmq==19.0.1
+scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1592502866053/work
+scipy @ file:///tmp/build/80754af9/scipy_1592930511789/work
+seaborn==0.10.1
+Send2Trash==1.5.0
+setuptools-git==1.2
+sip==4.19.13
+six==1.15.0
+sklearn==0.0
+statsmodels==0.11.1
+terminado==0.8.3
+testpath==0.4.4
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+tornado==6.0.4
+traitlets==4.3.3
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+Werkzeug==1.0.1
+zipp==3.1.0
