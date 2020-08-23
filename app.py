@@ -78,7 +78,7 @@ def runmodels():
 
     pipe = Pipeline(steps=[
         ('multipleTrans', multipleTransformer()),
-        ('randomForest', RandomForestRegressor(n_estimators=65,
+        ('randomForest', RandomForestRegressor(n_estimators=50,
                                                criterion='mse',
                                                max_depth=20,
                                                min_samples_split=10,
